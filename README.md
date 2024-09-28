@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dávid Babajrčík</h1>
-<h3 align="center">I'm eighteen years old and studying at a secondary school of electrical engineering, where we learn to program or create websites or graphics.</h3>
+<h3 align="center">I'm nineteen years old and studying at a secondary school of electrical engineering, where we learn to program or create websites or graphics.</h3>
 <h4 align="center">In my free time I work with music . Dj or lighting engineer at @jef_production.</h4>
 
 <h3 align="left">Connect with me:</h3>
